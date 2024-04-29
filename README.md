@@ -1,13 +1,14 @@
 Siri
 
 <!DOCTYPE html>
+<html>
 
-<html><head>
+<head>
     <title>
         The Basic Language of the web:HTML
     </title>
 
-    </head><body>
+    <body>
         <h1> My First HTML webpage!</h1>
         <h2>My First HTML webpage!</h2>
         <h3>My First HTML webpage!</h3>
@@ -20,7 +21,9 @@ Siri
         </p>
 
 
-        <img src="./THE BASIC HTML WEBPAGE CODE_files/html images.jpeg" width="200" height="200">
+        <img src="html images.jpeg"
+        width="200"
+         height="200"/>
 
          
 
@@ -47,7 +50,7 @@ Siri
 
 
          <table>
-            <tbody><tr>
+            <tr>
               <th>Company</th>
               <th>Contact</th>
               <th>Headquarters</th>
@@ -73,6 +76,26 @@ Siri
 
           </table>
           
+
+
+
+
+        
+    </body>
+ 
+
+   
+
+</head>
+
+</html>
+
+
+         
+
+            
+        
+           
 
 
 
